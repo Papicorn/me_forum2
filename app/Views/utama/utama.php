@@ -249,7 +249,7 @@
                             <button class="accordion-button bg-primary text-light" type="button" data-bs-toggle="collapse" data-bs-target="#right" aria-expanded="true" aria-controls="collapseOne">
                             User Online
                             </button>
-                        </h2>
+                        </h2> 
                         <div id="right" class="accordion-collapse collapse show" data-bs-parent="#right1">
                             <div class="accordion-body">
                                 <i class="text-muted center">Coming Soon</i>
